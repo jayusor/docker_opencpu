@@ -5,7 +5,7 @@ Jorge Ayuso Rejas
 Presentación: http://jayusor.github.io/docker_opencpu
 
 
-* Mail:    jorge.ayuso@conento.com
+* Mail:    jayusor@gmail.com
 * Twitter: @jayusor
 
 
